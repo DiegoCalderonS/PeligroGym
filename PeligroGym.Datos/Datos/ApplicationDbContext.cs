@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace PeligroGym.Data
+namespace PeligroGym.Datos.Datos
 {
     public class ApplicationDbContext : IdentityDbContext
     {

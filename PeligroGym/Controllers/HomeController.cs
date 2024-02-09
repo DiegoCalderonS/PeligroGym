@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PeligroGym.Models;
+using PeligroGym.Modelos;
+using PeligroGym.Modelos.ViewModels;
 using System.Diagnostics;
 
 namespace PeligroGym.Controllers

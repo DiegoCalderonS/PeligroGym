@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
-namespace PeligroGym.Data.Migrations
+namespace PeligroGym.Datos.Datos.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
