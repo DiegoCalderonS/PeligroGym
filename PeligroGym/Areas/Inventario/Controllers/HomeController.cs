@@ -3,8 +3,9 @@ using PeligroGym.Modelos;
 using PeligroGym.Modelos.ViewModels;
 using System.Diagnostics;
 
-namespace PeligroGym.Controllers
+namespace PeligroGym.Areas.Inventario.Controllers
 {
+    [Area("Inventario")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
